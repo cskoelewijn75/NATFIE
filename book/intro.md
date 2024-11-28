@@ -12,3 +12,8 @@ name: fig_mijneerstefiguur
 ---
 add bestand in de folder
 ```
+
+
+$$ \sqrt{4} $$
+
+
