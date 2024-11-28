@@ -8,7 +8,7 @@ This book can be used as a template for other books. It includes a starter packa
 ``` {figure} figures/incl_fig.PNG
 ---
 width: 50%
-name: EzraLoïs
+name: EzraLoïs.jpg
 ---
 add bestand in de folder
 ```
